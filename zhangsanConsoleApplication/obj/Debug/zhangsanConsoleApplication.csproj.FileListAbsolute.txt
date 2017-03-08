@@ -1,1 +1,6 @@
 E:\zhangsanConsoleApplication\zhangsanConsoleApplication\bin\Debug\zhangsanConsoleApplication.exe.config
+F:\workspace\zhangsanConsoleApplication\bin\Debug\zhangsanConsoleApplication.exe.config
+F:\workspace\zhangsanConsoleApplication\bin\Debug\zhangsanConsoleApplication.exe
+F:\workspace\zhangsanConsoleApplication\bin\Debug\zhangsanConsoleApplication.pdb
+F:\workspace\zhangsanConsoleApplication\obj\Debug\zhangsanConsoleApplication.exe
+F:\workspace\zhangsanConsoleApplication\obj\Debug\zhangsanConsoleApplication.pdb
