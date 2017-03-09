@@ -10,8 +10,7 @@ namespace zhangsanConsoleApplication
     {
         static void Main(string[] args)
         {
-            Console.Write("HelloWorld!2");
-            Console.Write("helloworld!");
+            Console.Write("HelloWorld!");
             Console.Read();
         }
     }
