@@ -4,3 +4,9 @@ F:\workspace\zhangsanConsoleApplication\bin\Debug\zhangsanConsoleApplication.exe
 F:\workspace\zhangsanConsoleApplication\bin\Debug\zhangsanConsoleApplication.pdb
 F:\workspace\zhangsanConsoleApplication\obj\Debug\zhangsanConsoleApplication.exe
 F:\workspace\zhangsanConsoleApplication\obj\Debug\zhangsanConsoleApplication.pdb
+F:\zhangsanApplication\zhangsanConsoleApplication\bin\Debug\zhangsanConsoleApplication.exe.config
+F:\zhangsanApplication\zhangsanConsoleApplication\obj\Debug\zhangsanConsoleApplication.exe
+F:\zhangsanApplication\zhangsanConsoleApplication\obj\Debug\zhangsanConsoleApplication.pdb
+F:\zhangsanApplication\zhangsanConsoleApplication\bin\Debug\zhangsanConsoleApplication.exe
+F:\zhangsanApplication\zhangsanConsoleApplication\bin\Debug\zhangsanConsoleApplication.pdb
+F:\zhangsanApplication\zhangsanConsoleApplication\obj\Debug\zhangsanConsoleApplication.csprojResolveAssemblyReference.cache
