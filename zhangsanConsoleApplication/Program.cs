@@ -11,6 +11,7 @@ namespace zhangsanConsoleApplication
         static void Main(string[] args)
         {
             Console.Write("HelloWorld!");
+            Console.Write("HelloWorld2!");
             Console.Read();
         }
     }
